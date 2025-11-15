@@ -1,0 +1,52 @@
+# ------------ Python ------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# ------------ Virtual Environment ------------
+.venv/
+venv/
+ENV/
+
+# ------------ Jupyter Notebook ------------
+.ipynb_checkpoints/
+
+# ------------ TensorFlow / ML Files ------------
+*.h5
+*.keras
+*.tflite
+*.pb
+*.ckpt
+checkpoint/
+logs/
+saved_model/
+
+# ------------ Dataset Folders ------------
+dataset/
+data/
+train/
+test/
+images/
+*.zip
+
+# ------------ Cache Files ------------
+*.DS_Store
+Thumbs.db
+*.cache/
+cache/
+logs/
+
+# ------------ Python Environment Files ------------
+.env
+*.log
+
+# ------------ VS Code ------------
+.vscode/
+
+# ------------ Windows ------------
+Desktop.ini
