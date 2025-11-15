@@ -50,3 +50,6 @@ logs/
 
 # ------------ Windows ------------
 Desktop.ini
+
+*.mp4
+*.png
