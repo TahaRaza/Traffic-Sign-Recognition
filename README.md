@@ -88,8 +88,6 @@ It predicts:
 |----------|----------|
 | ![](images/result4.png) | ![](images/result5.png) |
 
-> Place your real frames inside `/images/` folder.
-
 ---
 
 ## 📝 Class Mapping
